@@ -3,16 +3,27 @@
 ## Title
 Introduction to AWS Identity and Access Management (IAM)
 
+---
+
+## Author
+
+* **Name**: Sharma R
+* **Register Number**: 212224230261
+* **Date of Submission**: 22-04-2026
+
+---
 
 ## Objective
 The objective of this lab is to understand how AWS Identity and Access Management (IAM) controls authentication and authorization in AWS. The lab focuses on exploring IAM users and groups, analyzing attached policies, assigning users to appropriate groups based on organizational roles, and validating permissions by testing service access.
 
+---
 
 ## Prerequisites
 - Basic understanding of cloud computing concepts  
 - AWS Academy Lab access  
 - Web browser with internet connectivity  
 
+---
 
 ## Tools Used
 - AWS Management Console  
@@ -20,6 +31,7 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Amazon EC2  
 - Amazon S3  
 
+---
 
 ## Tasks Performed
 
@@ -45,6 +57,7 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 **Screenshot:**  
 (Add screenshot here)
 
+---
 
 ## Workflow
 1. Accessed IAM console and reviewed users and groups.  
@@ -53,6 +66,7 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 4. Logged in as each IAM user using the sign-in URL.  
 5. Validated permissions by accessing AWS services.  
 
+---
 
 ## Learning Outcomes
 - Understood the role of IAM in AWS security.  
@@ -60,12 +74,7 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Gained practical experience implementing role-based access control.  
 - Verified permission enforcement through real-time service testing.  
 
+---
 
 ## Conclusion
 This lab provided hands-on experience with AWS IAM by demonstrating how organizations manage secure access to cloud resources. Assigning users to groups with predefined policies simplified permission management and ensured role-based access control across AWS services.
-
-
-## Author
-**Name:** Your Name and (Reg No)
-**Course:** Introduction to Cloud Computing  
-
